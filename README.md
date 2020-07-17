@@ -8,4 +8,4 @@ Inside directory src, type make and enter. After the compilation, the executable
 Inside the directory inp, type ./dynamic2d.x
 
 # how to visualize the result
-One can either use paraview or tecplot to visualize the result.
+One can either use paraview or tecplot to visualize the result. One can check this link for reference: https://www.youtube.com/watch?v=SaB4WcQgQFM
